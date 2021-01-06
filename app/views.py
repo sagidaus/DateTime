@@ -8,7 +8,7 @@ def home():
    now = datetime.datetime.now()
    return str(now.strftime("%Y-%m-%d %H:%M:%S"));
 
-@app.route('/template')
+@app.route('/time')
 def template():
     return render_template('home.html')
 
