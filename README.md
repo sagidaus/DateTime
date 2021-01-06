@@ -6,3 +6,4 @@ bash start.sh
 ### Url to see Time and Date
 http://localhost:9999/time
 
+![image](https://github.com/sagidaus/DateTime/blob/master/image/time.PNG)
