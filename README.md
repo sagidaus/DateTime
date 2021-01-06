@@ -1,6 +1,8 @@
-Live Date and Time app for web
+##Live Date and Time app for web with docker
 
-http://localhost:9998/template
+###Build and Run
+bash start.sh
 
-test
-test2
+###Url to see Time and Date
+http://localhost:9999/time
+
